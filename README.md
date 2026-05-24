@@ -274,6 +274,7 @@ For comprehensive syntax and advanced features, see:
 
 - **[Mermaid Live Editor](https://mermaid.live)** - Interactive editor with instant preview and export
 - **[Official Documentation](https://mermaid.js.org)** - Comprehensive syntax reference
+- **Installation** - Install the skill locally: `npx skills install mermaid-diagrams`
 - **Mermaid CLI** - `npm install -g @mermaid-js/mermaid-cli` for batch exports
 - **VS Code Extension** - "Markdown Preview Mermaid Support" for live preview
 - **GitHub** - Native rendering in all `.md` files
