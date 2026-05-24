@@ -1,5 +1,7 @@
 # Mermaid Diagrams Skill
 
+[中文文档](README_CN.md) | [English Documentation](README.md)
+
 A comprehensive guide for creating professional software diagrams using Mermaid's text-based syntax. This skill enables you to visualize system architecture, document code structure, model databases, and communicate technical concepts through diagrams.
 
 ## Purpose

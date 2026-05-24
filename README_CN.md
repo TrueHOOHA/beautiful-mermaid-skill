@@ -1,5 +1,7 @@
 # Mermaid 图表技能
 
+[中文文档](README_CN.md) | [English Documentation](README.md)
+
 将复杂的技术概念转化为清晰、可维护的图表，让设计沟通和文档编写更高效。
 
 ## 这个 Skill 解决了什么问题
