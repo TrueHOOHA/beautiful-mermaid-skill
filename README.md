@@ -41,6 +41,12 @@ The skill activates when you mention:
 4. **Refine incrementally** - add details, styling, notes
 5. **Export or embed** - use in documentation, PRs, wikis
 
+## Installation
+
+```bash
+npx skills add https://github.com/TrueHOOHA/beautiful-mermaid-skill.git --skill mermaid-diagrams
+```
+
 ## Key Features
 
 ### 28 Diagram Types Supported
