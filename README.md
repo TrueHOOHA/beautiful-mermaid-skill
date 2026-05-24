@@ -41,13 +41,6 @@ The skill activates when you mention:
 4. **Refine incrementally** - add details, styling, notes
 5. **Export or embed** - use in documentation, PRs, wikis
 
-Mermaid syntax is intuitive and follows a consistent pattern across all diagram types:
-
-```mermaid
-diagramType
-  definition content
-```
-
 ## Key Features
 
 ### 28 Diagram Types Supported
