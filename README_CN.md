@@ -32,7 +32,7 @@ Mermaid 用纯文本语法描述图表，与手写代码无异，从根本上改
 
 ## 安装
 
-通过 `npx skills` 一键安装到本地：
+通过 `npx` 一键安装到本地：
 
 ```bash
 npx skills install mermaid-diagrams
