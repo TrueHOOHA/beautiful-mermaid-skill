@@ -3,17 +3,8 @@ name: mermaid-diagrams
 description: >
   Use this skill whenever a Mermaid diagram would explain something more clearly and intuitively than plain text.
 
-  **When to use this skill:**
-  - Explaining complex systems, architectures, workflows, or processes where a visual representation conveys the structure faster and more accurately than paragraphs of text
-  - Documenting relationships, hierarchies, sequences, or flows (class relationships, API call chains, database schemas, state transitions, Git branching)
-  - Communicating code structure, software design patterns, or deployment topologies where spatial layout adds meaning
-  - Presenting timelines, project plans, roadmaps, or decision trees where chronological or logical progression is key
-  - Comparing sets, categories, data distributions, or strategic positioning where a visual summary outperforms bullet points
-  - Whenever you find yourself writing a long textual explanation of "how things connect" or "what the steps are" — stop, and generate a Mermaid diagram instead
-
   **Trigger phrases:** "diagram", "visualize", "model", "map out", "show the flow", "chart", "graph", "how does X work", "what's the architecture", "walk me through the process", "show the relationships", "draw", "timeline", "mindmap", "erd", "c4", "gantt", "kanban", "flowchart", "sequence", "state", "gitgraph", "pie chart", "quadrant", "radar", "sankey", "treemap", "venn", "ishikawa", "wardley", "treeview", "zenuml", "block", "packet", "event-modeling", "requirement", "xy chart", and any request involving GitHub Flavored Markdown code blocks with `mermaid` tags.
 
-  Supports all 28 Mermaid diagram types: flowcharts, sequence diagrams, class diagrams, entity-relationship diagrams (ERD), C4 architectures, state diagrams, git graphs, gantt charts, pie/quadrant/xy/radar charts, mindmaps, timelines, sankey diagrams, kanban boards, block diagrams, packet diagrams, requirement diagrams (SysML), treemaps, venn diagrams, ishikawa diagrams, wardley maps, treeviews, entity modeling (ZenUML), and event modeling.
 ---
 
 # Mermaid Diagramming
